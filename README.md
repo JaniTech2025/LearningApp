@@ -60,10 +60,9 @@ INSERT INTO users (username, password)
 VALUES ('exampleUser', crypt('plainPassword', gen_salt('bf')));
 
 
-If you want, I can also format a **complete Backend Setup section** for README.md including **Node.js server setup, environment variables, and database connection** so someone can follow it step-by-step. Do you want me to do that?
 ````
 
-## Updates – 3 September 2025
+## Updates – 3 September 2025 - Jani
 
 - Created feature branch: `feature_learning`
 - Installed `pg` and `dotenv` packages
@@ -73,7 +72,7 @@ If you want, I can also format a **complete Backend Setup section** for README.m
 - `.env` file used for storing database username, password, and database name
 - Used `pgcrypto` extension for password encryption with `crypt()` and `gen_salt()`
 
-## Updates – 4 September 2025
+## Updates – 4 September 2025 - Kaanchan
 
 - Created folder structure for React Frontend
 - Installed ChakraUI
