@@ -72,3 +72,9 @@ If you want, I can also format a **complete Backend Setup section** for README.m
 - Generated emails based on `username` and `userId`
 - `.env` file used for storing database username, password, and database name
 - Used `pgcrypto` extension for password encryption with `crypt()` and `gen_salt()`
+
+## Updates – 4 September 2025
+
+- Created folder structure for React Frontend
+- Installed ChakraUI
+- Created Routing & link placeholder
