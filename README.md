@@ -62,7 +62,7 @@ VALUES ('exampleUser', crypt('plainPassword', gen_salt('bf')));
 
 ````
 
-## Updates – 3 September 2025 - Jani
+## Updates – 3 September 2025
 
 - Created feature branch: `feature_learning`
 - Installed `pg` and `dotenv` packages
@@ -72,7 +72,7 @@ VALUES ('exampleUser', crypt('plainPassword', gen_salt('bf')));
 - `.env` file used for storing database username, password, and database name
 - Used `pgcrypto` extension for password encryption with `crypt()` and `gen_salt()`
 
-## Updates – 4 September 2025 - Kaanchan
+## Updates – 4 September 2025
 
 - Created folder structure for React Frontend
 - Installed ChakraUI
